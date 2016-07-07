@@ -1,0 +1,669 @@
+name:Bulbasaur
+key:1
+type:grass,poison
+evolve:2
+rare:25
+desc:Seed Pokemon
+Bulbasaur is a dual-type Grass/Poison Pokemon.
+It evolves into Ivysaur, which evolves into Venusaur.
+Bulbasaur is a small, quadruped Pokemon with green or bluish green skin and dark patches. Its thick legs each end with three sharp claws. Its eyes have red irises, while the sclera and pupils are white. Bulbasaur has a pair of small, pointed teeth visible when its mouth is open. It has a bulb on its back, grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.
+Having been domesticated from birth, Bulbasaur is regarded as both a rare and well-behaved Pokemon. 
+It is known to be extremely loyal even after long-term abandonment. 
+Bulbasaur has also shown itself to be an excellent caretaker, even having a special technique called the "Bulba-by." To perform this technique, Bulbasaur uses its vines to pick up a young Pokemon and soothingly rocks the young one in the air.
+It is found in grasslands and forests. However, due to Bulbasaur's status as starter Pokemon, it is hard to come by in the wild and generally found under the ownership of a Trainer.
+Base Stats:
+HP:45, Attack:49, Defense:49, Sp.Atk:65, Sp.Def:65, Speed:45
+Type effectiveness:
+weak to: flying, fire, psychic, ice
+immune to: none
+resistant to: fighting, water, grass, electric, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)
+#####################################################
+name:Ivysaur
+key:2
+type:grass,poison
+evolve:3
+rare:50
+desc:Seed Pokemon
+Ivysaur is a dual-type Grass/Poison Pokemon.
+It evolves from Bulbasaur and evolves into Venusaur.
+Ivysaur is a dinosaur-like, quadruped Pokemon. It has blue-green skin with darker patches. Two pointed teeth protrude from its upper jaw, and it has narrow red to purple eyes. Each of its feet have three claws on them. 
+The bulb on its back has bloomed into a large pink bud supported by a short brown trunk surrounded by leafy green fronds. The weight of this bud prevents Ivysaur from standing on its hind legs and forces its legs to grow sturdy. When its plant is ready to bloom, it gives off a distinct, strong sweet-smelling aroma and starts swelling. Ivysaur will also start spending more time in sunlight in preparation for its upcoming evolution. 
+Exposure to sunlight adds to the strength of both Ivysaur and its plant. 
+Ivysaur's natural habitat is plains. However, it is rare, as many are in captivity.
+Base Stats:
+HP:60, Attack:62, Defense:63, Sp.Atk:80, Sp.Def:80, Speed:60
+Type effectiveness:
+weak to: flying, fire, psychic, ice
+immune to: none
+resistant to: fighting, water, grass, electric, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pok%C3%A9mon)
+#####################################################
+name:Venusaur
+key:3
+type:grass,poison
+evolve:0
+rare:75
+desc:Seed Pokemon
+Venusaur is a dual-type Grass/Poison Pokemon.
+It evolves from Ivysaur. It is the final form of Bulbasaur. It can Mega Evolve into Mega Venusaur using the Venusaurite.
+Venusaur is a squat, quadruped Pokemon with bumpy, bluish green skin. It has small, circular red eyes, two pointed teeth on its upper jaw, and four pointed teeth on its lower jaw. It has three clawed toes on each foot. 
+The bud on its back has bloomed in a large pink, white-spotted flower. The flower is supported by a thick, brown trunk surrounded by green fronds. A female Venusaur will have a seed in the center of its flower.
+As Mega Venusaur, the flower on its back grows larger and two new, pink flowers bloom, one on its forehead and one on its rear. Additional leaves with woody stems are grown around the flower that are supported by vines that grow from the base of the flower. Mega Venusaur also develops darker patches of color on its forehead below the new bloom. Its legs and frame also become more sturdy to support the weight of the flower.
+Venusaur uses its flower to catch the sun's rays to convert them into energy, which causes the flower to take on colors that are more vibrant. The flower releases a soothing scent that attracts Pokemon. This scent becomes stronger after a rainy day.
+This Pokemon is rarely found in the wild, but has been known to inhabit grasslands.
+Base Stats:
+HP:80, Attack:82, Defense:83, Sp.Atk:100, Sp.Def:100, Speed:80
+Type effectiveness:
+weak to: flying, fire, psychic, ice
+immune to: none
+resistant to: fighting, water, grass, electric, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pok%C3%A9mon)
+#####################################################
+name:Charmander
+key:4
+type:fire
+evolve:5
+rare:25
+desc:Lizard Pokemon
+Charmander is a Fire-type Pokemon.
+It evolves into Charmeleon, which evolves into Charizard.
+Charmander is a bipedal, reptilian Pokemon with an orange body, though its underside and soles are cream-colored. It has two small fangs visible in its upper and lower jaws and blue eyes. Its arms and legs are short with four fingers and three clawed toes. 
+A fire burns at the tip of this PokÃ©monâ€™s slender tail, and has blazed there since Charmanderâ€™s birth. The flame can be used as an indication of Charmander's health and mood, burning brightly when the Pokemon is strong, weakly when it is exhausted, wavering when it is happy, and blazing when it is enraged. 
+It is said that Charmander dies if its flame goes out.
+Charmander can be found in hot, mountainous areas. However, it is found far more often in the ownership of Trainers.
+Base Stats:
+HP:39, Attack:52, Defense:43, Sp.Atk:60, Sp.Def:50, Speed:65
+Type effectiveness:
+weak to: ground, rock, water
+immune to: none
+resistant to: bug, steel, fire, grass, ice, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)
+#####################################################
+name:Charmeleon 
+key:5
+type:fire
+evolve:6
+rare:50
+desc:Flame Pokemon
+Charmeleon is a Fire-type Pokemon.
+It evolves from Charmander and evolves into Charizard.
+Charmeleon is a bipedal, reptilian creature. It has crimson scales and a cream underside. There is a horn-like protrusion on the back of its head, and it has narrow green eyes and a long snout. It has relatively long arms with three sharp claws. Its short legs have feet with three claws and cream-colored soles. 
+The tip of its long, powerful tail has a flame burning on it. The temperature rises to unbearable levels if Charmeleon swings its tail.
+Charmeleon has a vicious nature and will constantly seek out opponents. Strong opponents excite this Pokemon, causing it to spout bluish-white flames that torch its surroundings. However, it will relax once it has won. 
+It is rare in the wild, but it can be found in mountainous areas.
+Base Stats:
+HP:58, Attack:64, Defense:58, Sp.Atk:80, Sp.Def:65, Speed:80
+Type effectiveness:
+weak to: ground, rock, water
+immune to: none
+resistant to: bug, steel, fire, grass, ice, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Charmeleon_(Pok%C3%A9mon)
+#####################################################
+name:Charizard 
+key:6
+type:fire,flying
+evolve:0
+rare:75
+desc:Flame Pokemon
+Charizard is a dual-type Fire/Flying Pokemon.
+It evolves from Charmeleon. It is the final form of Charmander. 
+It can Mega Evolve into two forms: Mega Charizard X using Charizardite X and Mega Charizard Y using Charizardite Y.
+Charizard is a draconic, bipedal Pokemon. It is primarily orange in coloration with a cream underside from the chest to the tip of the tail. It has a long snout and neck, small blue eyes, and two horns protruding from the back of its head. There are large wings with teal undersides sprouting from its back. Its arms are short and skinny, and its hands have three clawed fingers. Its feet have three clawed toes and cream-colored soles.
+This Pokemon flies in search of powerful opponents to battle, and its fire will burn hotter as it gains experience. Its fiery breath is capable of melting boulders, massive glaciers, and has been known to accidentally cause forest fires. 
+Charizard typically inhabit mountains and valleys.
+Base Stats:
+HP:78, Attack:84, Defense:78, Sp.Atk:109, Sp.Def:85, Speed:100
+Type effectiveness:
+weak to: rock, water, electric
+immune to: ground
+resistant to: fighting, bug, steel, fire, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)
+#####################################################
+name:Squirtle 
+key:7
+type:water
+evolve:8
+rare:25
+desc:Tiny Turtle Pokemon
+Squirtle is a Water-type Pokemon.
+It evolves into Wartortle, which evolves into Blastoise. 
+Squirtle is a small Pokemon that resembles a light blue turtle. While it typically walks on its two short legs. It has large brown eyes and a slightly hooked upper lip. Each of its hands and feet has three pointed digits. The end of its long tail curls inward. 
+Its body is encased by a tough shell that forms and hardens after birth. This shell is brown on the top, pale yellow on the bottom, and has a thick white ridge between the two halves.
+Squirtle's shell is a useful tool. It can withdraw into the shell for protection or for sleeping, and its grooved, rounded shape helps to reduce water resistance when this Pokemon swims. 
+Squirtle can spray foamy water from its mouth with great accuracy. Squirtle is scarce in the wild, although it can be found around small ponds and lakes. The anime has shown that it can be found living on secluded islands with other members of its evolutionary line.
+Base Stats:
+HP:44, Attack:48, Defense:65, Sp.Atk:50, Sp.Def:64, Speed:43
+Type effectiveness:
+weak to: grass, electric
+immune to: none
+resistant to: steel, fire, water, ice
+#http://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon)
+#####################################################
+name:Wartortle 
+key:8
+type:water
+evolve:9
+rare:50
+desc:Turtle Pokemon
+Wartortle is a Water-type Pokemon.
+It evolves from Squirtle and evolves into Blastoise.
+Wartortle is a bipedal, indigo-blue Pokemon similar to a turtle. It has brown eyes, a dark blue streak on each cheek, and two sharp teeth protruding from its upper jaw. It has three clawed fingers and pointed toes. Bluish white fur covers its long ears and tail. A brown shell with a pale yellow underside encases its body. 
+A thick, white rim separates the upper and lower halves of the shell. As Wartortle grows old, its tail fur will darken, and it may have algae growing on its shell. The shell may also carry scars from past battles.
+To maintain balance while swimming at high speeds, Wartortle moves its furry ears and tail. 
+It can use the fur to store air for extended underwater diving. Its tail is a popular symbol of longevity, making it popular with the elderly. 
+It hides in water when hunting and emerges to surprise its prey. 
+Its preferred habitat is freshwater ponds and lakes.
+Base Stats:
+HP:59, Attack:63, Defense:80, Sp.Atk:65, Sp.Def:80, Speed:58
+Type effectiveness:
+weak to: grass, electric
+immune to: none
+resistant to: steel, fire, water, ice
+#http://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pok%C3%A9mon)
+#####################################################
+name:Blastoise 
+key:9
+type:water
+evolve:0
+rare:75
+desc:Shellfish Pokemon
+Blastoise is a Water-type Pokemon.
+It evolves from Wartortle. It is the final form of Squirtle. It can Mega Evolve into Mega Blastoise using the Blastoisinite.
+Blastoise is a large, bipedal tortoise-like Pokemon. Its body is dark blue and is mostly hidden by its tough, brown shell. This shell has a pale yellow underside and a white ridge between the upper and lower halves, which also encircles the arms. Two powerful water cannons reside in the top sides of its shell. These cannons can be extended or withdrawn and can be used to assist in high-speed charges. Blastoise's head has triangular ears which are black on the inside, small brown eyes, and a cream-colored lower jaw. Its arms are thick and striated with three claws on each hand. Its feet have three claws on the front and one on the back. It has a stubby tail.
+The powerful cannons on this Pokemon's back are capable of producing water blasts that can pierce steel and concrete. 
+Blastoise deliberately makes itself heavy to withstand these powerful blasts, and it will crush its opponents with its bulk. 
+Its preferred habitat is freshwater ponds and lakes.
+Base Stats:
+HP:79, Attack:83, Defense:100, Sp.Atk:85, Sp.Def:105, Speed:78
+Type effectiveness:
+weak to: grass, electric
+immune to: none
+resistant to: steel, fire, water, ice
+#http://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pok%C3%A9mon)
+#####################################################
+name:Caterpie
+key:10
+type:bug
+evolve:11
+rare:1
+desc:Worm Pokemon
+Caterpie is a Bug-type Pokemon.
+It evolves into Metapod, which evolves into Butterfree.
+Caterpie is a serpentine Pokemon that resembles larvae. It is a green caterpillar with yellow ring-shaped markings down the sides of its body. It also has large yellow eyes with black pupils. Its most notable characteristic is the bright red antenna on its head, which releases a stench to repel predators. 
+These and the large eye-shaped markings help to startle predators. 
+Its feet are tipped with suction cups, permitting this Pokemon to scale most surfaces with minimal effort.
+Caterpie will shed its skin many times before finally cocooning itself in thick silk. 
+It can also spit this silk in order to entangle foes. 
+It has a voracious appetite that causes it to eat leaves larger than itself.
+Caterpie lives in forests.
+Base Stats:
+HP:45, Attack:30, Defense:35, Sp.Atk:20, Sp.Def:20, Speed:45
+Type effectiveness:
+weak to: flying, rock, fire
+immune to: none
+resistant to: fighting, ground, grass
+#http://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pok%C3%A9mon)
+#####################################################
+name:Metapod 
+key:11
+type:bug
+evolve:12
+rare:7
+desc:Cocoon Pokemon
+Metapod is a Bug-type Pokemon.
+It evolves from Caterpie starting and evolves into Butterfree.
+Metapod resembles a chrysalis. Its soft body is protected by a hard outer shell while it undergoes metamorphosis. 
+While this shell is said to be as hard as steel, a sudden, powerful impact could cause its tender body to pop out, leaving it completely exposed. 
+Metapod generally remains motionless, preparing its soft innards for evolution inside its hard shell. If an enemy discovers Metapod, it is unable to do anything other than harden its outer shell.
+Metapod lives in forests.
+Base Stats:
+HP:50, Attack:20, Defense:55, Sp.Atk:25, Sp.Def:25, Speed:30
+Type effectiveness:
+weak to: flying, rock, fire
+immune to: none
+resistant to: fighting, ground, grass
+#http://bulbapedia.bulbagarden.net/wiki/Metapod_(Pok%C3%A9mon)
+#####################################################
+name:Butterfree 
+key:12
+type:bug,flying
+evolve:0
+rare:16
+desc:Butterfly Pokemon
+Butterfree is a dual-type Bug/Flying Pokemon.
+It evolves from Metapod. It is the final form of Caterpie.
+Butterfree resembles a butterfly with a purple body. It only has two body segments and four light blue legs. Butterfree has two black antennae, a light blue snout with two fangs underneath, and large, red compound eyes. 
+Its two pairs of veined wings are white with black accents. The oval scales of a female Butterfree's lower wings are black, but white in males.
+Butterfree's wings are covered with poisonous powders that fall off continuously as it flies. This powder repels water, enabling it to gather honey even in the rain. 
+Butterfree will roam up to six miles from its nest in search of honey, which it carries with the hairs of its legs. It also consumes sap from trees. 
+Butterfree is found in forests, but has also been observed flying near the ocean as part of its migratory breeding pattern.
+Base Stats:
+HP:60, Attack:45, Defense:50, Sp.Atk:80, Sp.Def:80, Speed:70
+Type effectiveness:
+weak to: flying, rock, fire, electric, ice
+immune to: ground
+resistant to: fighting, bug, grass
+#http://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pok%C3%A9mon)
+#####################################################
+name:Weedle 
+key:13
+type:bug,poison
+evolve:14
+rare:4
+desc:Hairy Bug Pokemon
+Weedle is a dual-type Bug/Poison Pokemon.
+It evolves into Kakuna, which evolves into Beedrill.
+Weedle is a small, yellow, orange, or brown larva Pokemon with a segmented body. Combined with its red, pink, or purple nose and feet, Weedle's bright coloration wards off its enemies. 
+Weedle has a conical, two-inch poisonous stinger on its head and a barbed one on its tail, but every other body part is spherical.
+Weedle can retaliate against attackers and those who step on it with its strong toxin. It can distinguish its favorite kinds of leaves using its acute sense of smell. As a young Bug Pokemon, its daily appetite for leaves matches its weight. 
+Weedle can be found in forests and usually hides in grass, bushes, and under the leaves it eats.
+Base Stats:
+HP:40, Attack:35, Defense:30, Sp.Atk:20, Sp.Def:20, Speed:50
+Type effectiveness:
+weak to: flying, rock, fire, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Weedle_(Pok%C3%A9mon)
+-#####################################################
+name:Kakuna 
+key:14
+type:bug,poison
+evolve:15
+rare:8
+desc:Cocoon Pokemon
+Kakuna is a dual-type Bug/Poison Pokemon.
+It evolves from Weedle and evolves into Beedrill.
+Kakuna is a yellow, cocoon Pokemon. Kakuna has a dome-shaped head and black, triangular eyes. It has two scythe-like arms in the middle of its body. 
+When it comes close to evolving, its body gives off heat that makes it warm to the touch. Kakuna remains virtually immobile and waits for evolution often hanging from tree branches by long strands of silk. 
+When attacked, however, it can extend its poison barbs. 
+Kakuna nests in forests and misty wooded areas. Occasionally, it will also nest at the mouths of tunnels and caves.
+Base Stats:
+HP:45, Attack:25, Defense:50, Sp.Atk:25, Sp.Def:25, Speed:35
+Type effectiveness:
+weak to: flying, rock, fire, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Kakuna_(Pok%C3%A9mon)
+#####################################################
+name:Beedrill 
+key:15
+type:bug,poison
+evolve:0
+rare:20
+desc:Poison Bee Pokemon
+Beedrill is a dual-type Bug/Poison Pokemon.
+It evolves from Kakuna. It is the final form of Weedle.
+Beedrill mostly resembles a wasp; however, it only has four legs. Beedrill's head is round with a slightly pointed mouth, large, red eyes, and antennae. Its forelegs are tipped with long, conical stingers. It stands on its other two legs, which are long, segmented, and insectoid in shape. Beedrill has two pairs of rounded, veined wings, and another stinger on its striped abdomen.
+Beedrill is highly territorial and normally lives in colonies. Beedrill seems to be especially concerned with the welfare of Weedle and Kakuna, and it will respond aggressively to those that disturb them. 
+Disturbing a swarm of Beedrill will cause the whole colony to attack. It flies at high speed and attacks using the large venomous stingers on its forelegs and abdomen. 
+The two stingers on its forelimbs allow it to use its former signature move, Twineedle. 
+It will take the victims of its attacks back to its nest for food. 
+Beedrill nests in forests and misty wooded areas.
+Base Stats:
+HP:65, Attack:80, Defense:40, Sp.Atk:45, Sp.Def:80, Speed:75
+Type effectiveness:
+weak to: flying, rock, fire, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Kakuna_(Pok%C3%A9mon)
+#####################################################
+name:Pidgey
+key:16
+type:flying,normal
+evolve:17
+rare:1
+desc:Tiny Bird Pokemon
+Pidgey is a dual-type Normal/Flying Pokemon. 
+It evolves into Pidgeotto, which evolves into Pidgeot.
+Pidgey resembles a small, plump-bodied avian Pokemon. Pidgey is primarily brown with a lighter throat and belly.
+Both its feet and beak are a pinkish-gray color. It has black markings around its eyes and a small crest of brown and cream feathers above its eyes.
+Pidgey has an extremely sharp sense of direction and homing instincts. It can locate its nest even when far removed from familiar surroundings.
+Pidgey is a docile Pokemon, and generally prefers to flee from its enemies rather than fight them.
+Pidgey protects itself and flushes out potential prey by flapping its wings rapidly and throwing up dust clouds.
+Pidgey is very common and can be seen in meadows and forests.
+Base Stats:
+HP:40, Attack:45, Defense:40, Sp.Atk:35, Sp.Def:35, Speed:56
+Type effectiveness:
+weak to: rock, electric, ice
+immune to: ground, ghost
+resistant to: bug, grass
+#http://bulbapedia.bulbagarden.net/wiki/Pidgey_(Pok%C3%A9mon)
+#####################################################
+name:Pidgeotto
+key:17
+type:flying,normal
+evolve:18
+rare:25
+desc:Bird Pokemon
+Pidgeotto is a dual-type Normal/Flying Pokemon.
+It evolves from Pidgey and evolves into Pidgeot.
+Pidgeotto is a large, brown raptor-like avian Pokemon. It is covered with brown feathers, and has a cream-colored face and underside. It has a crest of pink feathers on its head and black streaks behind its eyes. The plumage of its tail alternates between red and yellow. It has powerful, pinkish-gray talons, which it uses to grasp prey.
+Pidgeotto is a powerful flier capable of carrying prey several miles to its nest. 
+Pidgeotto has an amazing vision that it using to locate prey on Pokemon such as Exeggcute and Magikarp and Caterpie. 
+Pidgeotto claims a sprawling territory of more than 60 miles, which it defends fiercely. Its nest is usually in the center of its territory and it circles its territory throughout the day, looking out for prey and intruders. It is most often found in forests.
+Base stats:
+HP:63, Attack:60, Defense:55, Sp.Atk:50, Sp.Def:50, Speed:71
+Type effectiveness:
+weak to: rock, electric, ice
+immune to: ground, ghost
+resistant to: bug, grass
+#http://bulbapedia.bulbagarden.net/wiki/Pidgeotto_(Pok%C3%A9mon)
+#####################################################
+name:Pidgeot
+key:18
+type:flying,normal
+evolve:0
+rare:50
+desc:Bird Pokemon
+Pidgeot is a dual-type Normal/Flying Pokemon.
+It evolves from Pidgeotto. It is the final form of Pidgey.
+Pidgeot is a large, avian Pokemon. Its glossy plumage is brown with a cream underbelly. On its head, there is a red and yellow crest that is nearly as long as its body. Its fan-like tail feathers are red. Its beak and legs are pink, and it has black markings around its eyes.
+Its powerful wings are capable of stirring up windstorms in just a few flaps, and it may spread its wings to intimidate enemies. 
+This Pokemon is capable of flying faster than the speed of sound. 
+Its plumage is often described as beautiful, making it a popular choice for skilled Trainers. 
+Pidgeot typically dwells in forests with thick growth and large trees. It is known to prey on Magikarp, which it can spot from great heights.
+Base stats:
+HP:83, Attack:80, Defense:75, Sp.Atk:70, Sp.Def:70, Speed:91
+Type effectiveness:
+weak to: rock, electric, ice
+immune to: ground, ghost
+resistant to: bug, grass
+#http://bulbapedia.bulbagarden.net/wiki/Pidgeot_(Pok%C3%A9mon)
+#####################################################
+name:Rattata
+key:19
+type:normal
+evolve:20
+rare:1
+desc:Mouse Pokemon
+Rattata is a Normal-type Pokemon.
+It evolves into Raticate.
+Rattata is a small, quadruped rodent Pokemon. Its most notable feature is its large teeth. Like most rodents, its teeth grow continuously throughout its life and must be worn down by gnawing. 
+It has long whiskers and a long, slightly curled tail. Rattata has purple fur on its back, and cream fur on its stomach. 
+Females have shorter whiskers and lighter fur color.
+Rattata can live wherever it can find food, which it searches for most of the day. 
+Thanks to its sharp fangs, it is able to eat nearly anything. 
+Its hardiness lets it live in many environments, although it mainly lives on plains and savannas. Because it reproduces so quickly, a pair of Rattata can quickly colonize an area. When it is threatened, Rattata can deliver a powerful bite.
+Base stats:
+HP:30, Attack:56, Defense:35, Sp.Atk:25, Sp.Def:35, Speed:72
+Type effectiveness:
+weak to: fighting
+immune to: ghost
+resistant to: none
+#http://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon)
+#####################################################
+name:Raticate
+key:20
+type:normal
+evolve:0
+rare:20
+desc:Mouse Pokemon
+Raticate is a Normal-type Pokemon.
+It evolves from Rattata.
+Raticate is a large, rodent Pokemon. Although it is often depicted on its hind legs, it is a quadruped. It is mostly tawny colored with a cream underside. It has large incisors that grow constantly. 
+These teeth are strong enough to gnaw through steel. There are three whiskers on each side of its face, which it uses to maintain balance. 
+Females will have shorter whiskers and lighter fur. 
+It has webbed feet with three toes that allow it to swim. Its tail is long and scaly, and its ears have a ragged appearance.
+If attacked, Raticate stands up on its hind legs, bares its fangs and shrieks in an intimidating manner at its enemy. It is willing to take on larger foes if provoked enough. 
+This Pokemon typically lives in plains and savannas.
+Base stats:
+HP:30, Attack:56, Defense:35, Sp.Atk:25, Sp.Def:35, Speed:72
+Type effectiveness:
+weak to: fighting
+immune to: ghost
+resistant to: none
+#http://bulbapedia.bulbagarden.net/wiki/Rattata_(Pok%C3%A9mon)
+#####################################################
+name:Spearow
+key:21
+type:normal,flying
+evolve:22
+rare:8
+desc:Tiny Bird Pokemon
+Spearow is a dual-type Normal/Flying Pokemon.
+It evolves into Fearow.
+Spearow is a brown avian Pokemon that is very small. It has rough, brown plumage on its head with a short, hooked beak. Spearow's underside is beige with two thin stripes. Spearow's light pink feet have three talons, and its wings are a pinkish red with lighter edges. Spearow's back is black, and it has three brown tail feathers.
+Although inept at other aspects of its flying, such as height and distance, Spearow is still capable of flying quickly to protect its territory. However, it must flap its wings at high speeds to stay aloft. Spearow's loud shrieks can be heard over half a mile away, and are used to warn other of its kind of danger.
+Base stats:
+HP:40, Attack:60, Defense:30, Sp.Atk:31, Sp.Def:31, Speed:70
+Type effectiveness:
+weak to: rock, electric, ice
+immune to: ground, ghost
+resistant to: bug, grass
+#http://bulbapedia.bulbagarden.net/wiki/Spearow_(Pok%C3%A9mon)
+#####################################################
+name:Fearow
+key:22
+type:normal,flying
+evolve:0
+rare:18
+desc:Beak Pokemon
+It evolves from Spearow.
+Fearow is a dual-type Normal/Flying Pokemon. 
+Fearow is a large, mostly brown avian Pokemon with a vulturine neck and broad, powerful wings. It has a long, pointed, pink beak, and a decorative red coxcomb on top of its head. Its narrow eyes have very small pupils, and do not appear to have colored irises. It has shaggy, feathers on the base of its neck and covering the upper portion of its wings. These feathers are cream-colored, as are the tips of its flight feathers. Its sharp-clawed talons are pink, with three toes pointing forward and one pointing backward.
+Fearow's large wings and stamina allow it to fly for an entire day without landing. It will shoot upward, and then dive down to catch prey. Its long neck and beak allow it to pluck prey from both land and water, and it will even catch tiny insects that hide underground. Fearow are found in wastelands and desolate fields. 
+Base stats:
+HP:65, Attack:90, Defense:65, Sp.Atk:61, Sp.Def:61, Speed:100
+Type effectiveness:
+weak to: rock, electric, ice
+immune to: ground, ghost
+resistant to: bug, grass
+#http://bulbapedia.bulbagarden.net/wiki/Fearow_(Pok%C3%A9mon)
+#####################################################
+name:Ekans
+key:23
+type:poison
+evolve:24
+rare:10
+desc:Snake Pokemon
+Ekans is a Poison-type Pokemon.
+It evolves into Arbok.
+Ekans is a purple, serpentine Pokemon. Its eyes, underbelly, stripe, and rattle are yellow. Ekans has three pairs of black lines encircling its body, as well as another line that connects each slitted eye and curves toward its nose. Its large mouth has a round, pink tongue and no visible teeth.
+Ekans moves stealthily through grass and preys on Eggs from Pidgey and Spearow nests, but can strike other prey from behind. It grows longer with age and wraps itself around tree branches at night to rest. If not in a tree, it will coil itself up—a position in which it can defend itself from all directions. Its jaw can detach to swallow large prey, but such a meal can make Ekans too heavy to move. A newborn Ekans's bite is painful, but not venomous. It flicks its tongue out to detect danger and the scent of prey. Ekans lives in grassy savannas and plains. 
+Base stats:
+HP:35, Attack:60, Defense:44, Sp.Atk:40, Sp.Def:54, Speed:55
+Type effectiveness:
+weak to: ground, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Ekans_(Pok%C3%A9mon)
+#####################################################
+name:Arbok
+key:24
+type:poison
+evolve:0
+rare:20
+desc:Cobra Pokemon
+Arbok is a Poison-type Pokemon. 
+It evolves from Ekans.
+Arbok is a serpentine Pokemon with purple scales over most of its body. It has a large hood just below its head. On its hood, it has a design much like an angry face, which can come in six variations. The pattern typically has red and yellow eyespot outlined it black, a wide black streak resembling a mouth, and a V-shaped stripe about the face pattern.
+Arbok is capable of crushing opponents by coiling its body around them and constricting them. It can even flatten steel oil drums. If it encounters an enemy, it raises its head, intimidating the opponent with the frightening pattern on its body and making eerie sounds by expelling air from its mouth. It has been stated that if any part of Arbok's body except for the head is cut off, it can regrow the rest of its body again in a matter of a few weeks. Arbok has been known to be capable of spending long periods underwater and surviving in aquatic environments. 
+Arbok is territorial. It lashes out at intruders with long fangs tipped with deadly venom. With a vengeful nature, it will not give up a chase once it targets its prey or an opponent, no matter how far. It makes its home in grassy savannas and plains. In the wild, it hunts smaller Pokemon, using the pattern on its hood to immobilize prey and using its toxic bite to finish them off. 
+Base stats:
+HP:60, Attack:85, Defense:69, Sp.Atk:65, Sp.Def:79, Speed:80
+Type effectiveness:
+weak to: ground, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Arbok_(Pok%C3%A9mon)
+#####################################################
+name:Pikachu
+key:25
+type:electric
+evolve:26
+rare:20
+desc:Mouse Pokemon
+Pikachu is an Electric-type Pokemon. 
+It evolves into Raichu.
+Pikachu is a short, chubby rodent Pokemon. It is covered in yellow fur, and its ears are long and pointed with black tips. It has a small mouth, brown eyes, and two red circles on its cheeks. There are pouches inside its cheeks where it stores electricity. Its forearms are short, with five fingers on each paw, and its feet have three toes. It has two brown stripes on its back, and its tail is in the shape of a lightning bolt with a patch of brown fur at the base. A female will have a V-shaped notch at the end of its tail. It is classified as a quadruped, but it has been known to stand and walk on its hind legs.
+It raises its tail to check its surroundings, and is occasionally struck by lightning in this position. Living in forested areas, Pikachu is found foraging for berries it roasts with electricity to make them tender enough to eat. It has been observed eating and sometimes destroying telephone poles, wires, and other electronic equipment.
+Pikachu is able to release electric discharges of varying intensity. Pikachu has been known to build up energy in its glands, and will need to discharge to avoid complications. It is also able to release energy through its tail, which acts as a grounding rod, as well as recharging fellow Pikachu with electric shocks. Pikachu can also electrify itself to use its signature move, Volt Tackle. When threatened, it looses electric charges from its sacs, and a group can build and cause lightning storms. It is found mostly in forests, where a sure sign that Pikachu inhabits a location is patches of burnt grass. 
+Base stats:
+HP:35, Attack:55, Defense:40, Sp.Atk:50, Sp.Def:50, Speed:90
+Type effectiveness:
+weak to: ground
+immune to: none
+resistant to: flying, steel, electric
+#http://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)
+#####################################################
+name:Raichu
+key:26
+type:electric
+evolve:0
+rare:30
+desc:Mouse Pokemon
+Raichu is an Electric-type Pokemon. 
+It evolves from Pikachu.
+Raichu is a bipedal, rodent-like Pokemon. Raichu is covered in dark orange fur with a white belly. Its arms and feet have patches of brown fur at the end, and the soles of its big feet are tan with a circular orange pad. Its bifurcated ears are brown on the outside and yellow on the insides and ends in a distinctive curl. The electric sacs on its cheeks are yellow. It has two horizontal brown stripes on its back. Its long, thin tail has a lightning bolt shaped end. This lightning bolt is smaller on females. Its tail is used to gather electricity from the atmosphere, or it can be planted in the ground to search for electricity. Its tail also serves to protect itself from its own power.
+Raichu exudes a weak electrical charge from all its body and slightly glows in the dark, and is capable of storing over 100,000 volts of electricity. However, it will become aggressive if it has stored too much electricity. To keep from reaching this state, it discharges electricity through its tail into the ground. This leads to scorched patches near its nest. If Raichu’s sacs are fully charged, its ears will stand straight up and its muscles become stimulated. Raichu is found in forests and woodlands. 
+Base stats:
+HP:60, Attack:90, Defense:55, Sp.Atk:90, Sp.Def:80, Speed:110
+Type effectiveness:
+weak to: ground
+immune to: none
+resistant to: flying, steel, electric
+#http://bulbapedia.bulbagarden.net/wiki/Raichu_(Pok%C3%A9mon)
+#####################################################
+name:Sandshrew
+key:27
+type:ground
+evolve:28
+rare:10
+desc:Mouse Pokemon
+Sandshrew is a Ground-type Pokemon.
+It evolves into Sandslash.
+Sandshrew is a bipedal Pokemon, but it has been known to run on all fours in the anime. It is mostly covered in a dry, tough hide colored to blend in with the sands of the desert, but has a white or cream underbelly. It has two pointed claws on each foot and three small, sharp claws on its forepaws, which are used to burrow.
+Sandshrew spends much of its time hidden underground arid environments in deep burrows. It only emerges for hunting, in which it waits within its burrow and instantly lunges out to drag in passing prey. Sandshrew can quickly curl into a tight ball to protect itself from great falls and opponents, but may also throw sand at attackers. Its body absorbs water without waste to facilitate life in the desert. Sandshrew is found in deserts, grasslands, and caves. 
+Base stats:
+HP:50, Attack:75, Defense:85, Sp.Atk:20, Sp.Def:30, Speed:40
+Type effectiveness:
+weak to: water, grass, ice
+immune to: electric
+resistant to: poison, rock"
+#http://bulbapedia.bulbagarden.net/wiki/Sandshrew_(Pok%C3%A9mon)
+#####################################################
+name:Sandslash
+key:28
+type:ground
+evolve:0
+rare:25
+desc:Mouse Pokemon
+Sandslash is a Ground-type Pokemon. 
+It evolves from Sandshrew.
+Sandslash is a bipedal, ground dwelling pholidote Pokemon. Although Sandslash is usually bipedal, it can run on all fours. Its body is mostly covered in sharp, brown quills formed from its tough, dry hide. It has two large claws on its paws and feet. These claws are its primary weapons, and are used for slashing. They can also be used for burrowing. Its claws and spikes can both break off and are shed regularly, but grow back quickly. It can curl into a large ball to protect its white underbelly. In this position, it can roll to attack or escape, and protect itself from heatstroke. Sandslash is also adept at climbing trees, and is prone to ambush its enemies from above. Sandslash can mostly be found in deserts and grasslands. 
+Base stats:
+HP:75, Attack:100, Defense:110, Sp.Atk:45, Sp.Def:55, Speed:65
+Type effectiveness:
+weak to: water, grass, ice
+immune to: electric
+resistant to: poison, rock
+#http://bulbapedia.bulbagarden.net/wiki/Sandslash_(Pok%C3%A9mon)
+#####################################################
+name:Nidoran♀
+key:29
+type:poison
+evolve:30
+rare:9
+desc:Poison Pin Pokemon
+Nidoran♀ is a Poison-type Pokemon. 
+It evolves into Nidorina, which evolves into Nidoqueen.
+Nidoran♀ is a small, quadruped, rodent-like Pokemon. It has large, spiny ears, oversized front teeth, red eyes, and a pair of whiskers on each cheek. It is light blue with several darker blue spots. There are two white claws on each of its paws. Its back is covered with small toxic spines, and it has a small forehead horn. The poison secreted by the spines and horn is extremely potent, and even a scratch from its horn or a drop of poison from its barbs can be deadly. However, this docile Pokemon only uses its poison when it feels threatened. Nidoran♀ lives in open spaces, such as savannas and plains. Nidoran♀ is an exclusively female Pokemon, Nidoran♂ being its male counterpart. 
+Base stats:
+HP:55, Attack:47, Defense:52, Sp.Atk:40, Sp.Def:40, Speed:41
+Type effectiveness:
+weak to: ground, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Nidoran♀_(Pok%C3%A9mon)
+#####################################################
+name:Nidorina
+key:30
+type:poison
+evolve:31
+rare:25
+desc:Poison Pin Pokemon
+Nidorina is a Poison-type Pokemon. 
+It evolves from Nidoran♀ and evolves into Nidoqueen.
+Nidorina is a quadruped, light-blue Pokemon with darker blue patches. It has red eyes, large, spiny ears, and has two pointed teeth protruding from its upper jaw. It possesses large poison spikes, which it retracts when with a group and while resting in its burrow. Its paws have three claws each, and it is able to stand on its hind legs. The hind legs are longer and thicker that its forelegs. It has a stubby tail. This is a female only species; the male counterpart is Nidorino.
+Nidorina is a gentle Pokemon, known to be a caring mother that chews food for its young. It seems to display close family bonds with others of its kind, and becomes nervous when separated. When Nidorina is in a group, it keeps its barbs tucked away to prevent injury, and even does so when it rests. Nidorina prefers not to fight since its horn grows slowly, but if forced or enraged, it prefers physical attacks such as clawing and biting. It also emits ultrasonic cries to befuddle foes. Nidorina lives in hot savannas and plains. 
+Base stats:
+HP:70, Attack:62, Defense:67, Sp.Atk:55, Sp.Def:55, Speed:56
+Type effectiveness:
+weak to: ground, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Nidorina_(Pok%C3%A9mon)
+#####################################################
+name:Nidoqueen
+key:31
+type:poison,ground
+evolve:0
+rare:40
+desc:Drill Pokemon
+Nidoqueen is a dual-type Poison/Ground Pokemon. 
+It evolves from Nidorina. It is the final form of Nidoran♀. 
+Nidoqueen is a large, bipedal blue Pokemon with distinct reptilian features. Its lower jaw, chest plates and lower torso are cream-colored. It has a horn on its forehead, narrow black eyes, and large, spiny ears. There are toxic spikes running down the length of its back, and its body in encased in extremely hard scales that serves as excellent protection from any attack and stand up when Nidoqueen is excited or provoked. It has a thick, powerful tail. This is a female only species; the male counterpart is Nidoking.
+Nidoqueen can be quite fierce and is very protective over its young. This Pokemon is at its strongest when it is defending its young, and will try to seal the entrance to its burrow to protect them. When in contact with foes, it can poison them with the spikes from its back or cause small tremors by slamming the ground. It is also adept at sending foes flying with harsh tackles and it uses its hefty bulk to execute powerful moves. Nidoqueen lives in hot savannas and plains. 
+Base stats:
+HP:90, Attack:92, Defense:87, Sp.Atk:75, Sp.Def:85, Speed:76
+Type effectiveness:
+weak to: ground, water, psychic, ice
+immune to: electric
+resistant to: fighting, poison, rock, bug, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Nidoqueen_(Pok%C3%A9mon)
+#####################################################
+name:Nidoran♂
+key:32
+type:poison
+evolve:33
+rare:9
+desc:Poison Pin Pokemon
+Nidoran♂ is a Poison-type Pokemon. 
+It evolves into Nidorino, which evolves into Nidoking.
+Nidoran♂ is a small, quadruped rodent-like Pokemon. It is pinkish purple with darker spots, and has large, spiny ears, oversized front teeth, and red eyes. Its back is covered with many large spines that can release potent poisons if threatened. There is a long, pointed horn on its forehead. The size of this horn is indicative of the strength of its venom. Nidoran♂ is an exclusively male Pokemon, Nidoran♀ being its female counterpart.
+Nidoran♂ constantly listens for the sounds of approaching enemies with its large ears. Said ears have unique muscles that allow them to be moved in any direction, and even the slightest sound does not escape Nidoran♂'s notice. In order to listen to distant locations, it flaps its ears like wings. When angry, it extends its toxic spikes and charges, stabbing with its horn to inject poison. Nidoran♂ lives in open spaces, such as savannas and plains. 
+Base stats:
+HP:46, Attack:57, Defense:40, Sp.Atk:40, Sp.Def:40, Speed:50
+Type effectiveness:
+weak to: ground, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Nidoran♂_(Pok%C3%A9mon)
+#####################################################
+name:Nidorino
+key:33
+type:poison
+evolve:34
+rare:25
+desc:"Poison Pin Pokemon
+Nidorino is a Poison-type Pokemon.  
+It evolves from Nidoran♂ and evolves into Nidoking.
+Nidorino is a light purple, quadruped Pokemon. It has several darker purple spots across its body. It has large, spiny ears with teal insides, narrow black eyes, and a long snout with two pointed teeth protruding from the upper jaw. It has a ridge of toxic spines on its back, and a long, pointed horn on its forehead. The horn is harder than a diamond and capable of secreting poison on impact. Its short legs have three claws on each foot. This is a male only species; the female counterpart is Nidorina.
+Nidorino is independent and fierce, often described as violent and easily angered. It uses its ears to check its surroundings. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might. Nidorino live in hot savannas and plains. 
+Base stats:
+HP:61, Attack:72, Defense:57, Sp.Atk:55, Sp.Def:55, Speed:65
+Type effectiveness:
+weak to: ground, psychic
+immune to: none
+resistant to: fighting, poison, bug, grass, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Nidorino_(Pok%C3%A9mon)
+#####################################################
+name:Nidoking
+key:34
+type:poison,ground
+evolve:0
+rare:40
+desc:Drill Pokemon
+Nidoking is a dual-type Poison/Ground Pokemon. 
+It evolves from Nidorino. It is the final form of Nidoran♂. 
+Nidoking is a large, bipedal, purple Pokemon distinct reptilian features. It has small, narrow eyes, large, spiny ears, fur-like tufts on its cheeks, and a short snout filled with pointed teeth. There is a long, venomous horn on its forehead. It has gray chest and belly plates, three claws on each hand, rounded spines on its elbows, and a single large nail on each foot. There is a ridge of long spines down its back, and it has a long, powerful tail. This is a male only species; the female counterpart is Nidoqueen.
+It is said that Nidoking's tail is capable of toppling a metal transmission tower. Nidoking uses this tail smash, constrict, or break the bones of its prey and enemies. The tail can be swung to create distance between it and its foes before Nidoking charges. Its steel-like hide adds to its powerful, rampaging charges. Nidoking lives in grasslands, rough terrain, and forests. 
+Base stats:
+HP:81, Attack:102, Defense:77, Sp.Atk:85, Sp.Def:75, Speed:85
+Type effectiveness:
+weak to: ground, water, psychic, ice
+immune to: electric
+resistant to: fighting, poison, rock, bug, fairy
+#http://bulbapedia.bulbagarden.net/wiki/Nidoking_(Pok%C3%A9mon)
+#####################################################

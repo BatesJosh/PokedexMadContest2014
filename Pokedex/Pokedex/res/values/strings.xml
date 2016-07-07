@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pokedex</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="get_pokemon">Gotta 	Catch Em All</string>
+    <string name="title_activity_pokemon_screen">Pokemon</string>
+    <string name="get_fences">Geofences</string>
+    <string name="descr">Description: Unknown</string>
+    <string name="evol">Evolves into: Unknown</string>
+    <string name="type2">Type 2: Unknown</string>
+    <string name="type1">Type 1: Uknown</string>
+    <string name="id">ID Number: Unknown</string>
+    <string name="name">Name: Unknown</string>
+<string name="img_descr">Image of Pokemon goes here</string>
+   <string name="centimeters">centimeters</string>
+    <string name="inches">inches</string>
+        <string name="kilograms">kilograms</string>
+    <string name="pounds">pounds</string>
+     <string name="activity_settings">Pokedex Settings</string>
+    
+
+</resources>
